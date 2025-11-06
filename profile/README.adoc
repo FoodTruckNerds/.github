@@ -1,5 +1,5 @@
 [#logo,role="float-left"]
-image::./food-truck-nerdz-gemini-logo.png[width=200]
+image::./food-truck-nerdz-gemini-logo.png[FTN Logo,width=200]
 
 === `Food Truck Nerdz, LLC`
 
