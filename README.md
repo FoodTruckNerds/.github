@@ -1,5 +1,3 @@
-# template
+# Public github Profile
 
-core template
-
-Copy this repository when creating a new repo
+Public github profile (<https://github.com/FoodTruckNerds/> - shown while logged out)
