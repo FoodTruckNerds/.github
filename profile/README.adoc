@@ -1,5 +1,8 @@
-[#logo,role="float-left"]
-image::./food-truck-nerdz-gemini-logo.png[FTN Logo,width=200]
+++++
+<div style="float:left; margin-right:20px;">
+  <img src="./food-truck-nerdz-gemini-logo.png" width="200"/>
+</div>
+++++
 
 === `Food Truck Nerdz, LLC`
 
@@ -7,8 +10,8 @@ A company built to help food truck owners and fans stay connected.
 
 <<<
 
-link:https://www.foodtrucknerdz.com[Website] • 
-link:https://docs.foodtrucknerdz.com[Docs] • 
+link:https://www.foodtrucknerdz.com[Website] •
+link:https://docs.foodtrucknerdz.com[Docs] •
 link:https://www.foodtrucknerdz.com/release-notes/latest[Release notes]
 
 © 2025
